@@ -116,3 +116,7 @@ all.config
 
 # Huaqin, stop being retard by doing all kernel stuffs on Windows
 !.gitattributes
+
+# out dir and my script
+out/
+build.sh
